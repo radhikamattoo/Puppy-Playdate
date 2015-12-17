@@ -15,3 +15,8 @@ Create a 'can people pet my dog' function that enables non-dog owners to view pi
 Alerts when certain tagged dog owners/users are active in your area
 UIPageViewController implementation in profile view
 User inactivity log 
+
+
+Completed with: 
+Yuxin Wang and Dhruv Gupta
+
