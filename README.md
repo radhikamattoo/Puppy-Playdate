@@ -16,9 +16,13 @@ So far only works for iPhone 6/iOS 9. Using Parse as a database to hold user inf
 Future Implementations: 
 
 -Search bar to parse user information like breed or username.
+
 -Create a 'can people pet my dog' function that enables non-dog owners to view pins of the dog owner. 
+
 -Alerts when certain tagged dog owners/users are active in your area
+
 -UIPageViewController implementation in profile view
+
 -User inactivity log 
 
 
