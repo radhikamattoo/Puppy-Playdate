@@ -1,5 +1,6 @@
 # Puppy Playdate
-#By: 
+
+By: 
 Radhika Mattoo, Yuxin Wang, and Dhruv Gupta
 
 
